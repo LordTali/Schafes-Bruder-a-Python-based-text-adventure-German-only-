@@ -14,7 +14,7 @@ In diesem Sinne: Viel Erfolg beim Programmieren und viel Spaß beim Spielen!
 
 ---
 
-Welcome to "Schafes Bruder" (Sheep's Brother)!
+Welcome to "Schafes Bruder" ("Sheep's Brother")!
 
 Note: The software is only available in German.
 
