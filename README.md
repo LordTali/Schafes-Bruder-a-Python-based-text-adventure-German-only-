@@ -1,4 +1,4 @@
-"Zeit der Zünfte: Schafes Bruder" ist ein Textabenteuer-Spiel im vereinfachten Zeit-Der-Zünfte-Rollenspielsystem von Vitali Hänisch, in dem Spieler bestimmte Handlungen ihre Charakters mittels Texteingabe steuern.
+"Zeit der Zünfte: Schafes Bruder" ist ein mit Python 3 erstelltes Textabenteuer-Spiel im vereinfachten Zeit-Der-Zünfte-Rollenspielsystem von Vitali Hänisch, in dem Spieler bestimmte Handlungen ihre Charakters mittels Texteingabe steuern.
 
 Ziel des Spiels ist es, den Spielern eine interaktive Geschichte zu bieten, die je nach Spielverlauf unterschiedlich ausgehen kann.
 
