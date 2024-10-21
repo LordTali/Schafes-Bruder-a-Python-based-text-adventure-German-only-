@@ -14,6 +14,6 @@ ACHTUNG:
 Das Programm wurde ausgiebig auf Bugs sowie Code- und Rechtschreibfehler getestet. Dennoch kann der Entwickler diese nicht zweifelsfrei ausschließen.
 Sollten Sie etwaige Fehler im Code finden, bittet der Entwickler um Kontaktaufnahme, damit der Code nachgebessert werden kann.
 
-Bei der Ausführung der .exe-Datei kann eine Windows-Warnung erscheinung. 
-Das liegt daran, dass die Software nicht über eine (kostenplfichtige) digitale Signatur verfügt. 
+Bei der Ausführung der .exe-Datei kann eine Windows-Warnung erscheinen. 
+Das liegt daran, dass die Software nicht über eine (kostenpflichtige) digitale Signatur verfügt. 
 Sie kann aber mit einem Klick auf "Trotzdem ausführen" gefahrlos ausgeführt werden.
